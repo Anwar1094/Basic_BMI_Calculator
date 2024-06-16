@@ -247,6 +247,3 @@ class MissingDetailsException(Exception):
 if __name__ == "__main__":
     calc = BMI_Calc()
     calc.mainloop()
-
-# Basic Calculator, Countdown Timer, Tic-Tac-Toe Game
-# Super Mall Web Application - Manage Shop's Offer, Products & Location x X
