@@ -19,3 +19,6 @@ If you wnat to see about me the Click the button About me at the top-left and to
 To run this application you have to change the user, host and password of mysql connector or If you want to use an online database you have to Change user, host, password and Create a database with name like 'BMI_Database' and use it in the code.
 Ex: Line 17:db = mysql.connect(host='SG-sand-slug-8025-8915-mysql-master.servers.mongodirector.com', user='sgroot', password='28^D8BZ9Bk0O1Tym', port=3306) # For online Database
 Line 50: self.query.execute('create database BMI_Database;')
+
+# Watch this video to learn how to use:
+https://www.linkedin.com/posts/anwar-ansari-84b07a24a_python-oasisinfobyte-bmiabrcalculator-activity-7208023991339421697-VUVD?utm_source=share&utm_medium=member_desktop
